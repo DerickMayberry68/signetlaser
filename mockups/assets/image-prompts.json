@@ -1,0 +1,72 @@
+{
+  "tool": "Built-in image_gen",
+  "date": "2026-09-10",
+  "images": [
+    {
+      "name": "hero-workbench",
+      "prompt": "Photorealistic natural commercial hero photograph, landscape 3:2, premium personalized engraving workshop gift collection. On the RIGHT half of a dark walnut table arrange a beautiful thick walnut and maple end-grain cutting board upright, a clear whiskey decanter with two glasses with small frosted R monograms, six charcoal slate coasters, a solid brass wax stamp with dark rosewood handle and a cream envelope with burgundy wax. Quiet authentic craft workshop softly blurred behind. LEFT 55 percent is uncluttered dark warm background with subtle wood grain, deliberately negative space for website heading added later. Products visibly real, restrained warm window light from right, true material detail, contact shadows, imperfections, no smoke, no glowing laser, no people, no promotional text, no logo or watermark. Editorial catalog photograph, not illustration or CGI.",
+      "source": "C:\\Users\\deric\\.codex\\generated_images\\01a08bce-5664-7db3-9bd8-05efa5bcfcfa\\exec-75483ebb-3781-4144-8061-fb8b16cb7c1b.png",
+      "file": "hero-workbench.png"
+    },
+    {
+      "name": "ashford-board",
+      "prompt": "Use case: product-mockup. Generate an authentic photorealistic commercial catalogue photo for Signet Laser placeholder imagery. Square 1:1 source image. One thick rectangular 18 by 12 inch walnut and hard maple end-grain cutting board, warm brown checker blocks with visible irregular natural growth rings, softly rounded corners, oiled satin finish, substantial 1.5 inch edge. Centered three-quarter overhead product photograph, whole board visible with generous margins suitable for portrait 4:5 crop. Small finely laser-burned SL monogram in one corner. On warm ivory stone countertop with a restrained folded flax linen at the back, soft window light, realistic wood and shadows. No food, no utensils. Cohesive warm cream, walnut, cognac palette, realistic photographic detail, not illustration, not 3D render, no watermark, no promotional text.",
+      "source": "C:\\Users\\deric\\.codex\\generated_images\\01a08bce-5664-7db3-9bd8-05efa5bcfcfa\\exec-cc60867d-38c3-46b2-9758-e08476666245.png",
+      "file": "ashford-board.png"
+    },
+    {
+      "name": "whiskey-glasses",
+      "prompt": "Use case: product-mockup. Generate an authentic photorealistic commercial catalogue photo for Signet Laser placeholder imagery. Square 1:1 source image. Exactly FOUR matching clear lead-free crystal whiskey tumblers, arranged two behind two, all fully visible, heavy clear bases and straight cylindrical walls, each with a modest frosted laser etched S L monogram. One glass contains a little amber whiskey, remaining three empty. Warm walnut tabletop, softly blurred neutral cream backdrop, soft side window light with realistic refraction and transparent highlights. Centered grouping with generous margins for portrait 4:5 crop. No box. Cohesive warm cream, walnut, cognac palette, realistic photographic detail, not illustration, not 3D render, no watermark, no promotional text.",
+      "source": "C:\\Users\\deric\\.codex\\generated_images\\01a08bce-5664-7db3-9bd8-05efa5bcfcfa\\exec-4a3ddb86-1ce9-47ae-b574-8bf8b7593ce6.png",
+      "file": "whiskey-glasses.png"
+    },
+    {
+      "name": "slate-coasters",
+      "prompt": "Use case: product-mockup. Generate an authentic photorealistic commercial catalogue photo for Signet Laser placeholder imagery. Square 1:1 source image. Exactly SIX square natural dark charcoal slate coasters with irregular chipped edges, three stacked and three separately visible across a warm walnut tabletop. Thin pale gray finely laser-etched Ashford wordmark with a tiny leaf sprig on the top and visible separate coasters. Warm soft window light, subtle flax linen at back, realistic fine slate grain and contact shadows. All items fully visible centered with generous margins suitable for portrait 4:5 crop. Cohesive warm cream, walnut, cognac palette, realistic photographic detail, not illustration, not 3D render, no watermark, no promotional text.",
+      "source": "C:\\Users\\deric\\.codex\\generated_images\\01a08bce-5664-7db3-9bd8-05efa5bcfcfa\\exec-1a443c1d-67d3-4f41-925d-258b46b16f1e.png",
+      "file": "slate-coasters.png"
+    },
+    {
+      "name": "brass-wax-stamp",
+      "prompt": "Use case: product-mockup. Generate an authentic photorealistic commercial catalogue photo for Signet Laser placeholder imagery. Square 1:1 source image. A solid brass circular wax seal stamp with polished dark rosewood turned handle lying diagonally on ivory deckle edge stationery, round brass die face clearly visible with a fine engraved ornamental S monogram; nearby one burgundy red wax seal impression on a folded cream envelope and restrained burgundy silk ribbon. A tactile wedding stationery still life, warm walnut table edge visible, soft natural window light, realistic brass fine scratches and wax relief, centered with generous margins suitable for portrait 4:5 crop. No printed captions. Cohesive warm cream, walnut, cognac palette, realistic photographic detail, not illustration, not 3D render, no watermark, no promotional text.",
+      "source": "C:\\Users\\deric\\.codex\\generated_images\\01a08bce-5664-7db3-9bd8-05efa5bcfcfa\\exec-ad4b006b-ffd2-4357-8aed-ff8baeca4206.png",
+      "file": "brass-wax-stamp.png"
+    },
+    {
+      "name": "regent-decanter",
+      "prompt": "Use case: product-mockup. Generate an authentic photorealistic commercial catalogue photo for Signet Laser placeholder imagery. Square 1:1 source image. ONE square clear crystal whiskey decanter with fitted substantial glass stopper, quarter filled with amber whiskey, plus exactly TWO matching low whiskey glasses, modest frosted engraved R monogram on all three pieces. Elegant walnut tabletop and soft ivory background, natural warm side window light, realistic refraction and contact shadows, restrained luxury personalized gift photography. All items fully visible, centered with generous margins for portrait 4:5 crop. No box or extra glassware. Cohesive warm cream, walnut, cognac palette, realistic photographic detail, not illustration, not 3D render, no watermark, no promotional text.",
+      "source": "C:\\Users\\deric\\.codex\\generated_images\\01a08bce-5664-7db3-9bd8-05efa5bcfcfa\\exec-68a59b46-f621-4b65-88d3-517f1f22a1ca.png",
+      "file": "regent-decanter.png"
+    },
+    {
+      "name": "maple-paddle",
+      "prompt": "Use case: product-mockup. Generate an authentic photorealistic commercial catalogue photo for Signet Laser placeholder imagery. Square 1:1 source image. One 20 inch pale hard maple charcuterie paddle cutting board with rounded shoulders, a long integrated handle and small hanging hole, beautiful subtle tight natural maple grain, shallow laser-burned Gather in simple elegant script near the lower end. Board lying on ivory stone with a folded flax cloth just in a corner, shot nearly overhead at a slight angle. Entire board visible diagonally in frame with generous margins for portrait 4:5 crop. No food or utensils. Cohesive warm cream, walnut, cognac palette, realistic photographic detail, not illustration, not 3D render, no watermark, no promotional text.",
+      "source": "C:\\Users\\deric\\.codex\\generated_images\\01a08bce-5664-7db3-9bd8-05efa5bcfcfa\\exec-3ada2769-75c1-4373-bb5c-0ed807074f68.png",
+      "file": "maple-paddle.png"
+    },
+    {
+      "name": "steel-address-plaque",
+      "prompt": "Use case: product-mockup. Generate an authentic photorealistic commercial catalogue photo for Signet Laser placeholder imagery. Square 1:1 source image. One rectangular matte black powder coated steel house address plaque engraved with crisp silver-white No. 118, mounted on a warm light limestone exterior wall with four subtle black standoff fixings. Plaque nearly front facing, softly directional natural late afternoon light, realistic metal fine texture and a small shadow cast on stone. Whole plaque visible, centered with generous surrounding wall for portrait 4:5 crop. No additional signs or writing. Cohesive warm cream, walnut, cognac palette, realistic photographic detail, not illustration, not 3D render, no watermark, no promotional text.",
+      "source": "C:\\Users\\deric\\.codex\\generated_images\\01a08bce-5664-7db3-9bd8-05efa5bcfcfa\\exec-20960e06-25cb-444b-a58e-848ab273fbe9.png",
+      "file": "steel-address-plaque.png"
+    },
+    {
+      "name": "leather-valet-tray",
+      "prompt": "Use case: product-mockup. Generate an authentic photorealistic commercial catalogue photo for Signet Laser placeholder imagery. Square 1:1 source image. One 9 inch square warm cognac full-grain vegetable tanned leather valet tray with four pinched snap corners, genuine natural pores and warm burnished edges, subtle dark debossed SL monogram at center. Empty tray on walnut desk with soft warm ivory blurred background. Three-quarter overhead angle reveals interior and construction. Entire tray fully visible, centered with generous margins for portrait 4:5 crop, authentic product photograph. Cohesive warm cream, walnut, cognac palette, realistic photographic detail, not illustration, not 3D render, no watermark, no promotional text.",
+      "source": "C:\\Users\\deric\\.codex\\generated_images\\01a08bce-5664-7db3-9bd8-05efa5bcfcfa\\exec-4a0ac9e6-c7b2-4c04-ad31-b6549663497c.png",
+      "file": "leather-valet-tray.png"
+    },
+    {
+      "name": "ashford-preview",
+      "prompt": "Square 1:1 photograph, exactly straight overhead orthographic flat lay of one rectangular 18 by 12 inch walnut and hard maple END GRAIN cutting board. Board is horizontal, spans exactly from 8% to 92% of image width and 22% to 78% of image height, squared to image edges, softly rounded corners. Rich warm medium brown checker blocks with visible natural end-grain rings, satin oiled finish. On plain warm ivory stone surface, very soft daylight and subtle contact shadow. Board is completely blank, NO engraving, letters, logos, objects or props. This clean photograph will have live text overlaid on the board by a website. Accurate rectangle proportions and entirely unobstructed flat surface.",
+      "source": "C:\\Users\\deric\\.codex\\generated_images\\01a08bce-5664-7db3-9bd8-05efa5bcfcfa\\exec-39806f90-6b72-4c0c-ae36-8d7a21f22491.png",
+      "file": "ashford-preview.png"
+    },
+    {
+      "name": "corporate-award",
+      "prompt": "Use case: product-mockup. Generate an authentic photorealistic commercial catalogue photo for Signet Laser placeholder imagery. Square 1:1 source image. A single freestanding thick clear crystal recognition award, elegant upright rectangle with subtly beveled edges on a walnut base, finely frosted engraving of a small laurel wreath above the words EXCELLENCE and 2026. Sitting on a walnut executive desk beside a closed cognac notebook, neutral ivory background. Natural soft window light and optically realistic glass reflections, refined corporate gift product photograph, centered with generous margins for portrait 4:5 crop. Cohesive warm cream, walnut, cognac palette, realistic photographic detail, not illustration, not 3D render, no watermark, no promotional text.",
+      "source": "C:\\Users\\deric\\.codex\\generated_images\\01a08bce-5664-7db3-9bd8-05efa5bcfcfa\\exec-3c192a1f-037e-4b53-bc71-70dfc77f99d8.png",
+      "file": "corporate-award.png"
+    }
+  ]
+}
