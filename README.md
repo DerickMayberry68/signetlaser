@@ -6,6 +6,7 @@ Proposal, storefront mockup, and branding assets for the Signet Laser client pre
 
 - `mockups/signet-laser-storefront.html` — interactive storefront, catalogue, personalization, custom work, and Admin Portal mockup.
 - `proposal/signet-laser-proposal.html` — proposal for separate delivery by email.
+- `output/pdf/signet-laser-proposal.pdf` — print-ready proposal with the matching hero image, for email delivery.
 - `mockups/assets/` — placeholder product photography, recreated logo, and media source notes.
 - Root SVG and image files — source branding artwork.
 - `mockups/signet-laser-storefront-before-photos.html` — earlier design retained for reference.
